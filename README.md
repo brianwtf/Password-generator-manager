@@ -37,7 +37,7 @@ git clone https://github.com/brianwtf/Password-generator-manager.git
 cd Password-generator-manager
 
 ## At the end just run
-python asimplescript.py
+python asimpleprogram.py
 
 
 
