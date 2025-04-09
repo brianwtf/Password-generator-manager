@@ -34,6 +34,7 @@ Install these dependencies using `pip`:
 
 ## How to use
 git clone https://github.com/brianwtf/Password-generator-manager.git
+
 cd Password-generator-manager
 
 ## At the end just run
