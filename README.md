@@ -9,8 +9,9 @@ The project also includes a dark/light mode toggle for a better user experience.
 ---
 
 ## Features
-https://media.discordapp.net/attachments/1359590625640710406/1359633412251582545/grafik.png?ex=67f830ca&is=67f6df4a&hm=93c5bfb4d745db74a210a3c8393153d04bcf5e80ffaeb9ce42843b4e96fa94e6&=&format=webp&quality=lossless&width=1872&height=447
-https://media.discordapp.net/attachments/1359590625640710406/1359633734084858058/grafik.png?ex=67f83116&is=67f6df96&hm=c958bfe12b1994f4227758c1f24d8822b2a34caf72a870aedc022c227017c36c&=&format=webp&quality=lossless
+![grafik](https://github.com/user-attachments/assets/a181cd03-8ff4-4472-95bc-b49f9e5da553)
+![grafik1](https://github.com/user-attachments/assets/72cdfe72-5caa-4ba1-9507-1d8d616b85d3)
+
 
 - **Generate Random Passwords**: The app can generate strong random passwords using letters, digits, and special characters.
 - **Save Passwords**: Generated passwords are saved in an encrypted file, ensuring their security.
